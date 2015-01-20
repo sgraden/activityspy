@@ -21,43 +21,45 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.i(TAG, "onCreate event fired. " + getIntent());
+        //savedInstanceState = new Bundle(); //Adds something to the bundle to check it will print
+        //savedInstanceState.putBoolean("a", false);
+        Log.i(TAG, "onCreate event fired." + (savedInstanceState == null ? "" : " " + savedInstanceState.toString()));
     }
 
     @Override
     public void onRestart() {
         super.onRestart();
-        Log.i(TAG, "onRestart event fired. " + getIntent());
+        Log.i(TAG, "onRestart event fired.");
     }
 
     @Override
     public void onStart() {
         super.onStart();
-        Log.i(TAG, "onStart event fired. " + getIntent());
+        Log.i(TAG, "onStart event fired.");
     }
 
     @Override
     public void onResume() {
         super.onResume();
-        Log.i(TAG, "onResume event fired. " + getIntent());
+        Log.i(TAG, "onResume event fired.");
     }
 
     @Override
     public void onPause() {
         super.onPause();
-        Log.i(TAG, "onPause event fired. " + getIntent());
+        Log.i(TAG, "onPause event fired.");
     }
 
     @Override
     public void onStop() {
         super.onStop();
-        Log.i(TAG, "onStop event fired. " + getIntent());
+        Log.i(TAG, "onStop event fired.");
     }
 
     @Override
     public void onDestroy() {
         super.onDestroy();
-        Log.i(TAG, "onDestroy event fired. " + getIntent());
+        Log.i(TAG, "onDestroy event fired.");
         Log.e(TAG, "We're going down, Captain!");
     }
 
