@@ -1,0 +1,104 @@
+adb server is out of date.  killing...
+* daemon started successfully *
+--------- beginning of /dev/log/main
+I/MainActivity( 4314): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+--------- beginning of /dev/log/system
+I/MainActivity( 5924): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 5924): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 5924): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 5924): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 5924): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+E/MainActivity( 5924): We're going down, Captain!
+I/MainActivity( 6641): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6641): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6641): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6641): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6641): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6641): onRestart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6641): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6641): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6641): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6641): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+E/MainActivity( 6641): We're going down, Captain!
+I/MainActivity( 6787): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6787): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6787): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6787): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 6787): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 7742): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 7742): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 7742): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 7742): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 7742): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 7742): onRestart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 7742): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 7742): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 7742): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 7742): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+E/MainActivity( 7742): We're going down, Captain!
+I/MainActivity( 8470): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onRestart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onRestart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity( 8470): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+E/MainActivity( 8470): We're going down, Captain!
+I/MainActivity( 9273): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onRestart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onRestart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity( 9273): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(10157): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(10157): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(10157): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(10157): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(10157): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+E/MainActivity(10157): We're going down, Captain!
+I/MainActivity(11250): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(11250): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(11250): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(11250): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(11250): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(11250): onRestart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(11250): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(11250): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(11250): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(11250): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.sraden.activityspy/.MainActivity }
+I/MainActivity(12033): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onRestart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onDestroy event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+E/MainActivity(12033): We're going down, Captain!
+I/MainActivity(12033): onCreate event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10304000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onStart event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10304000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onResume event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10304000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onPause event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10304000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onStop event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10304000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+I/MainActivity(12033): onDestroy event fired. Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10304000 cmp=edu.washington.sraden.activityspy/.MainActivity bnds=[24,279][282,595] }
+E/MainActivity(12033): We're going down, Captain!

@@ -1,3 +1,9 @@
+/**
+ * Steven Raden
+ * MainActivity
+ * 1/19/2015
+ */
+
 package edu.washington.sraden.activityspy;
 
 import android.support.v7.app.ActionBarActivity;
@@ -18,6 +24,42 @@ public class MainActivity extends ActionBarActivity {
         Log.i(TAG, "onCreate event fired. " + getIntent());
     }
 
+    @Override
+    public void onRestart() {
+        super.onRestart();
+        Log.i(TAG, "onRestart event fired. " + getIntent());
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+        Log.i(TAG, "onStart event fired. " + getIntent());
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        Log.i(TAG, "onResume event fired. " + getIntent());
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+        Log.i(TAG, "onPause event fired. " + getIntent());
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+        Log.i(TAG, "onStop event fired. " + getIntent());
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        Log.i(TAG, "onDestroy event fired. " + getIntent());
+        Log.e(TAG, "We're going down, Captain!");
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -41,8 +83,4 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void onDestroy() {
-        Log.i(TAG, "onDestroy event fired. " + getIntent());
-        Log.e(TAG, "We're going down, Captain!");
-    }
 }
